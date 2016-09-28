@@ -2,15 +2,16 @@
 <resources>
     <string-array name="soft">
 
-        <item>a</item>
-        <item>b</item>
-        <item>c</item>
-        <item>d</item>
-        <item>e</item>
-        <item>f</item>
-        <item></item>
-        <item></item>
-
+        <item>ก</item>
+        <item>ข</item>
+        <item>ฃ</item>
+        <item>ค</item>
+        <item>ง</item>
+        <item>จ</item>
+        <item>ฟ</item>
+        <item>ห</item>
+        <item>ด</item>
+        <item>ผ</item>
     </string-array>
 
 

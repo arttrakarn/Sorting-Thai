@@ -1,5 +1,6 @@
 package com.example.nrru.panthaisong.trakarn.sortingthai;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -13,6 +14,9 @@ public class MainActivity extends AppCompatActivity {
     } // Main Method
 
     public void clickplay(View view) {
+
+        startActivity(new Intent(MainActivity.this,SortListView.class));
+        finish();
 
     } //clickplay
 
